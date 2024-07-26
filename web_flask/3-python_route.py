@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" a script Add third view func that redirects and has default val for variable """
+"""
+A script that Add third view func that redirects
+and has default val for variable
+"""
 
 from flask import Flask
 

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 
+"""
 A script that add fourth view function
 that displays var only if is integer
 """
